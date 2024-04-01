@@ -28,13 +28,13 @@ To get started with this repository, follow these steps:
 1. Clone the repository to your local machine using the following command:
 
     ```bash
-    git clone https://github.com/your-username/problem-solving.git
+    git clone https://github.com/Ahmed-M-Aboutaleb/Problem-Solving.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd problem-solving
+    cd Problem-Solving
     ```
 
 3. Explore the different folders and files to find solutions to specific problems or challenges.
